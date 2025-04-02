@@ -55,4 +55,4 @@ while True:
 imc = peso / (estatura**2)
 
 print(f"Tu indice de masa corporal es de {imc}")
-print("Gracias por tu visita")
+print(f"Gracias por tu visita {nombre} {apellido_paterno} {apellido_materno}")
